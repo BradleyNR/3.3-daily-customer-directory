@@ -50,6 +50,7 @@ div {
 .ssn {
   margin-top: 10px;
   filter: blur(3px);
+  margin-bottom: 30px;
 }
 
 .ssn:hover {
